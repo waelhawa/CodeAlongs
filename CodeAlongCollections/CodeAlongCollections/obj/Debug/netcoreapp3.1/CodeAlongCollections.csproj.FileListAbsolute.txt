@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\bin\Debug\netcoreapp3.1\CodeAlongCollections.exe
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\bin\Debug\netcoreapp3.1\CodeAlongCollections.deps.json
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\bin\Debug\netcoreapp3.1\CodeAlongCollections.runtimeconfig.json
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\bin\Debug\netcoreapp3.1\CodeAlongCollections.runtimeconfig.dev.json
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\bin\Debug\netcoreapp3.1\CodeAlongCollections.dll
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\bin\Debug\netcoreapp3.1\CodeAlongCollections.pdb
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\obj\Debug\netcoreapp3.1\CodeAlongCollections.csprojAssemblyReference.cache
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\obj\Debug\netcoreapp3.1\CodeAlongCollections.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\obj\Debug\netcoreapp3.1\CodeAlongCollections.AssemblyInfo.cs
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\obj\Debug\netcoreapp3.1\CodeAlongCollections.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\obj\Debug\netcoreapp3.1\CodeAlongCollections.dll
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\obj\Debug\netcoreapp3.1\CodeAlongCollections.pdb
+F:\GrandCircus\C#\CodeAlongs\CodeAlongCollections\CodeAlongCollections\obj\Debug\netcoreapp3.1\CodeAlongCollections.genruntimeconfig.cache
